@@ -32,8 +32,17 @@ The “Risk Profile by Number of Accounts” chart provides insights into the co
 ## Approval Trends and Dealer State Analysis
 <p align="justify">  Approval rates have fluctuated over time, with a peak of 130 approvals in January 2022, followed by a sharp decline to 74 in February 2022. This inconsistency could point to changes in underwriting standards or seasonal variations in application quality. Additionally, analysis by dealer state reveals disparities in approval rates across different regions, highlighting areas where the company could focus on improving performance.
 
-##Approval Rate by Dealer State
+## Approval Rate by Dealer State
 <p align="justify">  The approval rate analysis by dealer state reveals notable regional differences in performance. Kuala Lumpur and Selangor demonstrate significantly higher approval rates compared to Johor and Pahang. This suggests that applications originating from dealers in Kuala Lumpur and Selangor are more likely to meet underwriting criteria or possess stronger applicant profiles. Conversely, the lower approval rates in Johor and Pahang may indicate potential issues such as higher risk applicants, incomplete documentation, or inconsistencies in the application process within these regions.
 
+
+# Sentiment Analysis of Car Loan Judgments: Key Insights and Influencing Factors
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/ebf0ae5d-3168-4e96-8bbf-6c5e7cb04d25">
+
+
+<p align="justify">  When looking at the sentiment analysis and word cloud of remarks, it’s clear that several factors play a role in determining car loan outcomes, such as whether the loan is approved or canceled. Positive terms like "Approved," "verified," "DONE," and "PERMANENT" suggest that loan approval often depends on thorough verification processes, stable employment, and reliable income. This implies that applicants who provide the necessary documentation—such as proof of income, employment verification, and residential details—are more likely to have their loans approved.
+
+<p align="justify">  On the other hand, negative terms like "Reject," "pending," and repeated mentions of "x000D" may point to incomplete verifications or unresolved issues, which could lead to loan cancellations. Terms like "DSR" (Debt Service Ratio) and "CCRIS" indicate that poor financial ratios or negative credit records could also contribute to rejections. Ultimately, the decision seems to hinge on verifying the applicant’s financial stability and ensuring they meet the lender’s requirements.
 
 
