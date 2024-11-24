@@ -45,4 +45,21 @@ The “Risk Profile by Number of Accounts” chart provides insights into the co
 
 <p align="justify">  On the other hand, negative terms like "Reject," "pending," and repeated mentions of "x000D" may point to incomplete verifications or unresolved issues, which could lead to loan cancellations. Terms like "DSR" (Debt Service Ratio) and "CCRIS" indicate that poor financial ratios or negative credit records could also contribute to rejections. Ultimately, the decision seems to hinge on verifying the applicant’s financial stability and ensuring they meet the lender’s requirements.
 
+# Recommendations
+
+<p align="justify"> To improve approval rates and better support lower-income applicants, it’s important to take a closer look at the underwriting process. This involves reassessing the risk assessment framework and adopting alternative ways to evaluate creditworthiness. For example, instead of relying solely on traditional credit scores, factors like consistent employment history or regular payment of utilities could provide a more complete picture of an applicant’s financial reliability.
+
+<p align="justify"> In Malaysia, understanding income brackets like the B40 and B20 groups is vital. The B40 group earns a median income of RM3,440, with an upper range of RM5,249, while the B20 subset earns between RM2,501 and RM3,169. These figures highlight the need for more inclusive lending criteria that cater specifically to these groups.
+
+<p align="justify"> Another way to improve access to loans is by enhancing risk-based pricing. By introducing tiered loan structures or flexible pricing models, lenders can offer interest rates and repayment terms tailored to the applicant's risk profile. This approach ensures that lower-income borrowers have access to loans that are affordable and manageable, while still balancing the lender’s risk.
+
+<p align="justify"> Finally, lenders can analyze data from canceled and rejected applications to identify patterns or common reasons for rejection. This can help simplify the application process, address unnecessary roadblocks, and reduce cancellation rates. By making these changes, the underwriting process can become not only more effective but also more inclusive, giving a fair chance to applicants from lower-income backgrounds.
+
+
+
+
+
+
+
+
 
