@@ -18,3 +18,22 @@ The “Risk Profile by Number of Accounts” chart provides insights into the co
 •	High Risk: There are 66 accounts in the high-risk category with overdue periods exceeding 90 days (>M3). These require focused recovery efforts. <br />
 •	No Risk: Another 232 accounts are fully paid or current, contributing to the portfolio's overall stability. <br />
 
+
+# Underwriting Risk Profile 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/aa26b583-e319-4070-bde3-82cddde7ce11">
+
+
+## Underwriting Risk Overview
+<p align="justify"> The company's current underwriting process shows significant challenges, with a high rejection rate of 93.68% and a low approval rate of just 6.32%. Out of 253 applications reviewed, only 16 were approved, while 237 were canceled. This indicates a conservative or overly stringent approach that may be hindering the number of loans being disbursed. The high number of cancellations suggests that either the rejection criteria are too rigid, or there are inefficiencies in the application or approval process.
+
+## Income Category Risk Analysis
+<p align="justify">  A closer look at rejected applications reveals that a significant portion comes from the Low-Income category, while applicants in the Medium- and High-Income groups make up only a small percentage. This trend suggests that the underwriting process may be disproportionately restrictive toward lower-income borrowers, likely due to concerns about their ability to repay. While this approach may reduce risk, it also limits the company’s market reach and loan distribution potential.
+
+## Approval Trends and Dealer State Analysis
+<p align="justify">  Approval rates have fluctuated over time, with a peak of 130 approvals in January 2022, followed by a sharp decline to 74 in February 2022. This inconsistency could point to changes in underwriting standards or seasonal variations in application quality. Additionally, analysis by dealer state reveals disparities in approval rates across different regions, highlighting areas where the company could focus on improving performance.
+
+##Approval Rate by Dealer State
+<p align="justify">  The approval rate analysis by dealer state reveals notable regional differences in performance. Kuala Lumpur and Selangor demonstrate significantly higher approval rates compared to Johor and Pahang. This suggests that applications originating from dealers in Kuala Lumpur and Selangor are more likely to meet underwriting criteria or possess stronger applicant profiles. Conversely, the lower approval rates in Johor and Pahang may indicate potential issues such as higher risk applicants, incomplete documentation, or inconsistencies in the application process within these regions.
+
+
+
